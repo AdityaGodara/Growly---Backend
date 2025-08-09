@@ -47,5 +47,5 @@ Growly is a modern, interactive landing page for an AI-powered ad creative platf
 
 ## Hosted Links
 
-- **Frontend:** [https://adityagrowly.vercel.app](https://adityagrowly.vercel.app) *(replace with your actual link)*
+- **Frontend:** [https://adityagrowly.vercel.app](https://adityagrowly.vercel.app)
 - **Backend:** [https://growly-backend-nkch.onrender.com](https://growly-backend-nkch.onrender.com) *
